@@ -1,4 +1,4 @@
-# 🎮 C# Control Flow Basics in Unity (IF, FOR, WHILE)
+# 🎮 Unity C# Control Flow Fundamentals (IF, FOR, WHILE)
 
 A Unity project demonstrating fundamental C# programming concepts using conditional statements and looping structures.
 
