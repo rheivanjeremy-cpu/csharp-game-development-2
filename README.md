@@ -4,20 +4,25 @@ A Unity project demonstrating fundamental C# programming concepts using conditio
 
 ## ✨ Features
 
-* Number classification (positive, negative, zero)
-* Looping using for (iteration 1–5)
-* Countdown system using while loop
-* Console output using Debug.Log
+- Number classification (positive, negative, zero)
+- Looping using for (iteration 1–5)
+- Countdown system using while loop
+- Console output using Debug.Log
 
 ## 🧠 Key Concepts
 
-* If-else statement
-* For loop
-* While loop
-* Control flow logic
+- If-else statement
+- For loop
+- While loop
+- Control flow logic
+  
+## 🎯 Learning Outcomes
+- Understand control flow in C#
+- Apply conditional logic in Unity
+- Use loops for repetitive tasks
+- Simulate simple game mechanics like countdown
 
 ## ▶️ How to Run
-
 1. Open Unity Hub and create/open a project
 2. Import or copy the scripts into the `Assets` folder
 3. Create an empty GameObject in the scene
@@ -33,18 +38,18 @@ A Unity project demonstrating fundamental C# programming concepts using conditio
 
 ## 🛠️ Tech Stack
 
-* C#
-* Unity Engine
+- C#
+- Unity Engine
 
 ## 📦 Requirements
 
-* Unity (any recent version)
-* Basic knowledge of C#
+- Unity (any recent version)
+- Basic knowledge of C#
 
 ## 📁 Project Structure
 
-* NumberChecker.cs → Handles number classification and for loop
-* CountdownTimer.cs → Handles countdown using while loop
+- NumberChecker.cs → Handles number classification and for loop
+- CountdownTimer.cs → Handles countdown using while loop
 
 ## 🖥️ Example Output
 
